@@ -1,5 +1,25 @@
 # pokestore 寶可電商
 
+### Installation instructions
+
+**Node.js v13.x**:
+
+```sh
+# Using Ubuntu
+curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+# Using Debian, as root
+curl -sL https://deb.nodesource.com/setup_13.x | bash -
+apt-get install -y nodejs
+```
+
+- Git拉下來後
+- 安裝套件：npm install
+- 打包WebPack：npm run build
+- 執行伺服器：sudo node server.
+
+
 ![](https://i.imgur.com/zYDW0F1.png)
 
 ## Demo
