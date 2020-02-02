@@ -24,7 +24,7 @@ apt-get install -y nodejs
 `# which deals with the routing problem below`
 - serve -s dist
 
-![Previewing Locally](https://cli.vuejs.org/guide/deployment.html#general-guidelines)
+[Previewing Locally](https://cli.vuejs.org/guide/deployment.html#general-guidelines)
 
 ![](https://i.imgur.com/zYDW0F1.png)
 
