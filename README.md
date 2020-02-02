@@ -19,6 +19,11 @@ apt-get install -y nodejs
 - 打包WebPack：npm run build
 - 執行伺服器：sudo node server.
 
+- npm install -g serve
+`# -s flag means serve it in Single-Page Application mode`
+`# which deals with the routing problem below`
+- serve -s dist
+
 
 ![](https://i.imgur.com/zYDW0F1.png)
 
